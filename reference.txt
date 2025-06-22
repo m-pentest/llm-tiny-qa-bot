@@ -1,0 +1,2 @@
+In agentic LLMs, memory is a persistence layer attackers can quietly poison for long-term control. Unlike prompt injection, memory poisoning works over time by embedding misleading content that re-emerges in future steps. Memory poisoning attacks can target both short-term working memory and long-term memory stores. If not properly managed, poisoned memory may influence decision-making even after the original attacker input is gone. This creates stealthy security risks because the system continues operating with false assumptions built into its own memory.
+
